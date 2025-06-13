@@ -33,6 +33,14 @@ The dataset was cleaned and standardized using Power Query to ensure reliable ag
 
 ## Executive Summary
 
+**Audience Insights:**
+Segments such as Brand Propensities, Finance, and Intent consistently outperformed others across both cost-efficiency and engagement KPIs. For example, Brand Propensities achieved the **lowest CPA ($166.14) and CPC ($4.84)**, while Intent audiences led in **CTR (31.93%)** and remained competitive in **CVR (5.16%)**, suggesting a dual role in both branding and performance campaigns.
+
+Creative Performance:
+Among creative sizes, 300x250 and 320x50 emerged as **cost-effective and reliable** across the cost and rate-based KPIs of all campaigns. On average, 320x50 offered the **lowest CPA ($682) and highest CVR (11.80%)**, while 300x250 maintained the **lowest average vCPM ($536.80)**, suggesting that both formats warrant continued use and A/B testing to optimize performance across cost and conversion objectives. While median performance across creative sizes was relatively stable, 320x50 carried more upside potential, albeit with outlier risk.
+
+**Key Takeaway:**
+Top-performing audience segments frequently coincided with high-performing creative formats (e.g., 300x250, 320x50), suggesting alignment between media strategy and audience targeting. Given their complementary strengths, 320x50 and 300x250 should be prioritized in A/B testing to determine which creative format best aligns with specific campaign goals—whether focused on acquisition (CPA, CVR) or efficiency (vCPM).
 
 ## Insights Deep Dive
 
@@ -80,11 +88,9 @@ The dataset was cleaned and standardized using Power Query to ensure reliable ag
   <img src="">
 </p>
 
-Conflict was also measured at the end of the year, so trends depict a one year period. Conflict also decreases overtime but students on average were already at the low end of conflict across schools, as this measure is on a 1-5 scale. 
 
-EDA revealed that conflict with teacher was moderately correlated (-0.47 & -0.61) with students' ATL scores. Both Kindergarten and First grade models confirm this finding, revealing that students experiencing more conflict were **63%–73% less likely** to receive a ‘High’ ATL rating. Confidence intervals for both of the estimates indicate that the true population value would also reflect a decreased likelihood of receiving a "High" ATL rating.
 
-#### Attentional Focus is a key behavioral driver of ATL — and its influence remains strong over time.
+#### 
 
 <p align="center">
   <img src= "">
