@@ -6,9 +6,6 @@
 - [Dataset & Overview of Data Structure](#dataset--overview-of-data-structure)
 - [Executive Summary](#executive-summary)
 - [Insights Deep Dive](#insights-deep-dive)
-  - 
-    - 
-    - 
 - [Recommendations](#recommendations)
   
 
@@ -102,25 +99,25 @@ EDA revealed that conflict with teacher was moderately correlated (-0.47 & -0.61
 ## Recommendations
 **Strategic takeaway:** 
 
-**Students with strong teacher relationships in kindergarten are nearly 3x more likely to receive high ATL ratings.**
-**Implication:** Building trust early boosts academic confidence and readiness.
+** **
+**Implication:** 
 
-**Recommendations** for Program Designers & District Leaders:
-1. Invest in relationship-building practices during kindergarten (e.g., smaller class sizes, SEL programs).
-2. Emphasize early-year rapport-building in professional development for teachers, given its outsized impact on learning behaviors.
+**Recommendations** for :
+1. 
+2. 
 
-**Students with higher teacher conflict are significantly less likely to receive high ATL ratings — consistently across two years.**
-**Implication:** Ongoing conflict may suppress student achievement.
+** **
+**Implication:** 
 
-**Recommendations** for District Leaders & Platform Designers:
-1. Implement early conflict detection tools (e.g., teacher pulse surveys, behavior tagging).
-2. Offer targeted coaching or restorative practices where teacher–student conflict is identified.
+**Recommendations** for :
+1. 
+2. 
 
-**Attentional Focus has the strongest predictive link to ATL across time points.**
-**Implication:** Attention skills can signal early academic risk or achievement potential.
+** **
+**Implication:** 
 
-**Recommendations** for District Leaders & EdTech Vendors:
-1. Use Attentional Focus as a key screener for academic risk in early childhood.
-2. Build tools and curricula that target self-regulation and focus (e.g., gamified SEL apps, classroom sensory routines).
+**Recommendations** for :
+1. 
+2. 
 
 
