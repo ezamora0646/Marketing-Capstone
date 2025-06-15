@@ -44,40 +44,10 @@ Top-performing audience segments frequently coincided with high-performing creat
 
 ## Insights Deep Dive
 
-### Top Performing Audience Segments
-
-#### 
-
-#### 
-
-<p align="center">
-  <img src="">
-  <img src="">
-</p>
-
-
-
-#### 
-
-<p align="center">
-  <img src="">
-  <img src="">
-</p>
-
-
-
-#### 
-
-#### 
-
-<p align="center">
-  <img src= "">
-  
-  <img src="">
-</p>
-
-
 ### Creative Sizing Efficiency 
+
+#### Creative Format as a Performance Driver
+
 
 #### 320x50 is the most cost-effective creative size
 <p align="center">
@@ -86,10 +56,50 @@ Top-performing audience segments frequently coincided with high-performing creat
   </a>
 </p>
 
+320x50 creatives drove the strongest CPA and CVR, while 300x250 was a reliable performer across formats.
 
 
+
+
+
+### Top Performing Audience Segments
+
+#### Campaign Efficiency Isn’t One-Dimensional 
 
 #### 
+
+<p align="center">
+  <img src="">
+  <img src="">
+</p>
+
+
+
+#### Volume ≠ Engagement
+
+<p align="center">
+  <img src="">
+  <img src="">
+</p>
+
+
+
+### Creative Sizing Efficiency 
+
+#### Creative Format as a Performance Driver
+
+
+#### 320x50 is the most cost-effective creative size
+<p align="center">
+  <a href="https://public.tableau.com/views/AudienceAnalystCapstone/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+    <img src="https://github.com/user-attachments/assets/0bdbdb40-9e02-4881-89ae-ff3298b9a702" alt="View Creative Sizing Insights" />
+  </a>
+</p>
+
+320x50 creatives drove the strongest CPA and CVR, while 300x250 was a reliable performer across formats.
+
+
+#### Cross-Cutting Synergies
 
 <p align="center">
   <img src= "">
