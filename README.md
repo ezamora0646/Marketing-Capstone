@@ -67,7 +67,7 @@ While 300x250 performed reliably across metrics, 320x50's strong benchmarks—pa
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/edwin.zamora/viz/AudienceAnalystCapstone/Dashboard1?publish=yes">
-  <img src="https://github.com/user-attachments/assets/36dcd61e-5b8a-4bfb-8091-c74f72d486a7" alt = "Audience Performance Metrics">
+  <img src="https://github.com/user-attachments/assets/46dc0e0e-4090-4b17-9cb4-397dfac480b8" alt = "Audience Performance Metrics">
 </p>
 
 Audience performance varied widely across metrics, revealing a clear decoupling between cost and outcome. For example, the Finance segment reported one of the highest CPCs ($7.24) but still ranked among the top 3 segments with the lowest CPA ($174.30) and second-lowest CPM ($13.84). This suggests that higher CPCs can still yield cost-effective conversions when the audience is well-aligned with campaign objectives.
