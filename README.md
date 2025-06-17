@@ -66,10 +66,23 @@ While 300x250 performed reliably across metrics, 320x50's strong benchmarks—pa
 #### 
 
 <p align="center">
-  <img src="">
-  <img src="">
+  <a href="https://public.tableau.com/app/profile/edwin.zamora/viz/AudienceAnalystCapstone/Dashboard1?publish=yes">
+  <img src="https://github.com/user-attachments/assets/36dcd61e-5b8a-4bfb-8091-c74f72d486a7" alt = "Audience Performance Metrics">
 </p>
 
+Audience performance varied widely across metrics, revealing a clear decoupling between cost and outcome. For example, the Finance segment reported one of the highest CPCs ($7.24) but still ranked among the top 3 segments with the lowest CPA ($174.30) and second-lowest CPM ($13.84). This suggests that higher CPCs can still yield cost-effective conversions when the audience is well-aligned with campaign objectives.
+
+In contrast, segments like Life Event and Interest Propensities appeared cost-efficient by CPC ($5.77 and $6.61, respectively) but fared worse on CPA and CPM. 
+
+
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/edwin.zamora/viz/AudienceAnalystCapstone/Dashboard3?publish=yes">
+  <img src="https://github.com/user-attachments/assets/1eed7665-b304-4cb1-bea0-c3277a7dd693" alt = "Audience Branding Metrics">
+</p>
+
+Meanwhile, Media & Entertainment stood out on engagement metrics, with a CTR of 32.56%—the highest among all audience segments—despite only ranking mid-tier in CPA and CVR.
+
+Ultimately, these results show that no single metric captures campaign value. A balanced view is required to contextualize trade-offs between click volume, cost per acquisition, and impression quality.
 
 
 #### Volume ≠ Engagement
