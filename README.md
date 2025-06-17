@@ -75,7 +75,7 @@ Audience performance varied widely across metrics, revealing a clear decoupling 
 In contrast, segments like Life Event and Interest Propensities appeared cost-efficient by CPC ($5.77 and $6.61, respectively) but fared worse on CPA and CPM. 
 
 
-<p align="center">
+</p >
   <a href="https://public.tableau.com/app/profile/edwin.zamora/viz/AudienceAnalystCapstone/Dashboard3?publish=yes">
   <img src="https://github.com/user-attachments/assets/1eed7665-b304-4cb1-bea0-c3277a7dd693" alt = "Audience Branding Metrics">
 </p>
