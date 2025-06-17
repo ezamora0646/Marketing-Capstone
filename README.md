@@ -55,9 +55,9 @@ Top-performing audience segments frequently coincided with high-performing creat
   </a>
 </p>
 
-Across all campaigns, the creative sizes 300x250 and 320x50 emerged as the most cost-efficient formats. Both consistently posted the lowest CPM ($0.03), with 300x250 also offering the lowest vCPM and most consistent median cost performance. Notably, 320x50 edged ahead on conversion metrics, generating a CVR of 3.90%—outperforming 300x250 (3.38%) and 300x50 (3.76%).
+Across all campaigns, the creative sizes 300x250 and 320x50 emerged as the **most cost-efficient formats**. Both consistently posted the **lowest CPM ($0.03)**, with 320x250 also offering the **lowest vCPM ($61.67).** Notably, 320x50 edged ahead on conversion metrics, generating the **highest CVR of 3.90%.**
 
-While 300x250 performed reliably across metrics, 320x50's outliers—particularly on CPA ($310.59) and CTR (25.67%)—suggest that this format has higher upside when paired with the right segment. In contrast, 300x50 consistently underperformed, recording the highest CPC ($17.16) and CPA ($456.41). These findings highlight the strategic value of selecting creative formats not just based on cost, but on their potential for conversion lift and audience match.
+While 300x250 performed reliably across metrics, 320x50's strong benchmarks—particularly on CPA ($310.59) and CTR (25.67%)—suggest that this format has higher upside when paired with the right segment. In contrast, **300x50 consistently underperformed,** recording the highest CPC ($17.16) and CPA ($456.41). These findings highlight the **strategic value** of selecting creative formats not just based on cost, but on their potential for conversion lift and audience match.
 
 ### Top Performing Audience Segments
 
