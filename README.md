@@ -51,8 +51,8 @@ Top-performing audience segments frequently coincided with high-performing creat
 
 #### 320x50 is the most cost-effective creative size
 <p align="center">
-  <a href="https://public.tableau.com/views/AudienceAnalystCapstone/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-    <img src="https://github.com/user-attachments/assets/0bdbdb40-9e02-4881-89ae-ff3298b9a702" alt="View Creative Sizing Insights" />
+  <a href="https://public.tableau.com/app/profile/edwin.zamora/viz/AudienceAnalystCapstone/Dashboard2?publish=yes">
+    <img src="https://github.com/user-attachments/assets/8ded2a25-c034-470d-9106-24c33196308d" alt="View Creative Sizing Insights" />
   </a>
 </p>
 
