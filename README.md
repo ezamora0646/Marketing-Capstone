@@ -61,11 +61,9 @@ While 300x250 performed reliably across metrics, 320x50's strong benchmarks—pa
 
 ### Top Performing Audience Segments
 
-#### Campaign Efficiency Isn’t One-Dimensional 
+#### Campaign Efficiency Isn’t One-Dimensional  
 
-#### 
-
-<p align="center">
+</p>
   <a href="https://public.tableau.com/app/profile/edwin.zamora/viz/AudienceAnalystCapstone/Dashboard1?publish=yes">
   <img src="https://github.com/user-attachments/assets/ca758b08-56e0-4abd-a343-5f0aeef33e73" alt = "Audience Performance Metrics">
 </p>
@@ -75,17 +73,20 @@ Audience performance varied widely across metrics, revealing a clear decoupling 
 In contrast, segments like Life Event and Interest Propensities appeared cost-efficient by CPC ($5.77 and $6.61, respectively) but fared worse on CPA and CPM. 
 
 
-</p >
+#### Volume ≠ Engagement
+
+</p>
   <a href="https://public.tableau.com/app/profile/edwin.zamora/viz/AudienceAnalystCapstone/Dashboard3?publish=yes">
   <img src="https://github.com/user-attachments/assets/1eed7665-b304-4cb1-bea0-c3277a7dd693" alt = "Audience Branding Metrics">
 </p>
 
-Meanwhile, Media & Entertainment stood out on engagement metrics, with a CTR of 32.56%—the highest among all audience segments—despite only ranking mid-tier in CPA and CVR.
 
-Ultimately, these results show that no single metric captures campaign value. A balanced view is required to contextualize trade-offs between click volume, cost per acquisition, and impression quality.
+Meanwhile, Media & Entertainment stood out on engagement metrics, with a CTR of 32.56%—the highest among all audience segments—despite only ranking mid-tier in CPA and CVR. Ultimately, these results show that no single metric captures campaign value. A balanced view is required to contextualize trade-offs between click volume, cost per acquisition, and impression quality.
 
+An added layer of complexity emerged when comparing impression volume to performance outcomes. Beauty & Fitness recorded more than 2 million viewable impressions across 21 campaigns but failed to top performance metrics. In contrast, Lotame had just 18 campaigns and far fewer impressions but nearly matched top performers on CTR (29.95%) and CVR (6.58%).
 
-#### Volume ≠ Engagement
+This reinforces the importance of impression quality over quantity. Segments with fewer but more targeted impressions and well-matched creative formats often converted at higher rates. Future testing might benefit from reallocating spend to smaller segments that, while niche, may offer stronger return on investment when paired with the right creative strategy.
+
 
 <p align="center">
   <img src="">
