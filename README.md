@@ -91,22 +91,15 @@ An added layer of complexity emerged when comparing impression volume to perform
 This reinforces the importance of impression quality over quantity. Segments with fewer but more targeted impressions and well-matched creative formats often converted at higher rates. Future testing might benefit from reallocating spend to smaller segments that, while niche, may offer stronger return on investment when paired with the right creative strategy.
 </p>
 
-<p align="center">
-  <img src="">
-  <img src="">
+<p>
+  <br>
 </p>
 
-
-
-#### Cross-Cutting Synergies
+#### Performance Peaks When Audience & Format Align
 
 <p align="center">
-  <img src= "">
-</p>
-
-<p align="center">
-  <img src="">
-  <img src="">
+  <img src= "https://github.com/user-attachments/assets/57eccb97-bc03-4a86-90de-6e9935c04fc6">
+<img src="https://github.com/user-attachments/assets/37574cd0-17db-4cc7-b607-ac90efba3a25">
 </p>
 
 
