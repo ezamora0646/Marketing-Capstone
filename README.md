@@ -82,7 +82,7 @@ In contrast, segments like Life Event and Interest Propensities appeared cost-ef
 
 <p>
   <a href="https://public.tableau.com/app/profile/edwin.zamora/viz/AudienceAnalystCapstone/Dashboard3?publish=yes">
-  <img src="https://github.com/user-attachments/assets/1eed7665-b304-4cb1-bea0-c3277a7dd693" alt = "Audience Branding Metrics">
+  <img src="https://github.com/user-attachments/assets/2f367983-1260-4e7f-9daf-2e57fc467e07" alt = "Audience Branding Metrics">
 
 Media & Entertainment stood out on engagement metrics, with a CTR of 32.56%—the highest among all audience segments—despite only ranking mid-tier in CPA and CVR. However, this did not translate to aduience engagement especially when comparin results to smaller markets. 
 
