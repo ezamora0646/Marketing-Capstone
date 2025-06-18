@@ -68,9 +68,9 @@ While 300x250 performed reliably across metrics, 320x50's strong benchmarks—pa
   <a href="https://public.tableau.com/app/profile/edwin.zamora/viz/AudienceAnalystCapstone/Dashboard1?publish=yes">
   <img src="https://github.com/user-attachments/assets/366919dc-671e-47d4-bb6c-c46651da85f2" alt = "Audience Performance Metrics">
     
-Audience performance varied widely across metrics, revealing a clear decoupling between cost and outcome. For example, the Finance segment reported one of the highest CPCs ($7.24) but still ranked among the top 3 segments with the lowest CPA ($174.30) and second-lowest CPM ($13.84). This suggests that higher CPCs can still yield cost-effective conversions when the audience is well-aligned with campaign objectives. <br>
+Audience performance varied widely across metrics, revealing a clear decoupling between cost and outcome. For example, the Finance segment reported one of the **highest CPCs ($7.24)** but still ranked among the top 3 segments with the **lowest CPA ($174.30)** and secondlowest CPM ($13.84). This suggests that higher CPCs can still yield cost-effective conversions when the audience is well-aligned with campaign objectives. <br>
 
-In contrast, segments like Life Event and Interest Propensities appeared cost-efficient by CPC ($5.77 and $6.61, respectively) but fared worse on CPA and CPM. Ultimately, these results show that no single metric captures campaign value. A balanced view is required to contextualize trade-offs between click volume, cost per acquisition, and impression quality. 
+In contrast, segments like Life Event and Interest Propensities *appeared* cost-efficient by CPC ($5.77 and $6.61, respectively) but *fared worse* on CPA and CPM. Ultimately, these results show that **no single metric captures campaign value**. A balanced view is required to contextualize trade-offs between click volume, cost per acquisition, and impression quality. 
 </p>
 
 <p>
@@ -84,9 +84,9 @@ In contrast, segments like Life Event and Interest Propensities appeared cost-ef
   <a href="https://public.tableau.com/app/profile/edwin.zamora/viz/AudienceAnalystCapstone/Dashboard3?publish=yes">
   <img src="https://github.com/user-attachments/assets/2f367983-1260-4e7f-9daf-2e57fc467e07" alt = "Audience Branding Metrics">
 
-Media & Entertainment stood out on engagement metrics, with a CTR of 32.56%—the highest among all audience segments—despite only ranking mid-tier in CPA and CVR. However, this did not translate to aduience engagement especially when comparin results to smaller markets. 
+Media & Entertainment stood out on engagement metrics, with a CTR of 32.56%—the highest among all audience segments—despite only ranking *mid-tier in CPA and CVR*. However, this did not translate to audience engagement especially when comparing results to smaller markets. 
 
-An added layer of complexity emerged when comparing impression volume to performance outcomes. Beauty & Fitness recorded more than 2 million viewable impressions across 21 campaigns but failed to capture top performance metrics. In contrast, Lotame had just 18 campaigns and far fewer impressions but nearly matched top performers on CTR (29.95%) and CVR (6.58%).
+An added layer of complexity emerged when comparing impression volume to performance outcomes. Beauty & Fitness recorded **more than 2 million viewable impressions** across 21 campaigns but **failed to capture top performance metrics**. In contrast, Lotame had just 18 campaigns and far fewer impressions but nearly matched top performers on CTR (29.95%) and CVR (6.58%).
 
 This reinforces the importance of impression quality over quantity. Segments with fewer but more targeted impressions and well-matched creative formats often converted at higher rates. Future testing might benefit from reallocating spend to smaller segments that, while niche, may offer stronger return on investment when paired with the right creative strategy.
 </p>
@@ -102,11 +102,17 @@ This reinforces the importance of impression quality over quantity. Segments wit
 <img src="https://github.com/user-attachments/assets/137fac86-51cb-4881-b323-9d7356ad7ee8">
 </p>
 
+Key patterns emerged from analyzing the creative size utilized in campaigns among the audience segments with the best performance (first table) and engagement (second table) metrics. For instance, Brand Propensities + 320x50 delivered **strong results across all the performance metrics**, with a CPC of just $3.75, the lowest among all creative formats, and the lowest CPA of $132.20.
 
-#### 
+However, not all audience segments perform equally across formats, nor do high-performing formats yield the same results for all audiences. For example, Finance + 300x50 reported a CPA of $1,479.79, vastly underperforming Finance + 320x50 ($159.57), despite targeting the *same behavioral group.*
 
+As for engagement metrics, 320x50 consistently yielded the best CVR and CTR for top performing audience segments and top branded segements alike. Further testing is suggested to create strategies that capitalize on high branding visibility of audience segments like Media & Entertainment.
 
+Altogether, data suggests that optimal performance is achieved not through blanket assumptions about creative or audience, but through targeted pairings that align format strengths with audience behavior and intent.
 
+<p>
+  <br>
+</p>
 
 ## Recommendations
 **Strategic takeaway:** 
