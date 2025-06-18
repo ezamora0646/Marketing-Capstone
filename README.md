@@ -71,7 +71,7 @@ While 300x250 performed reliably across metrics, 320x50's strong benchmarks—pa
 
 Audience performance varied widely across metrics, revealing a clear decoupling between cost and outcome. For example, the Finance segment reported one of the highest CPCs ($7.24) but still ranked among the top 3 segments with the lowest CPA ($174.30) and second-lowest CPM ($13.84). This suggests that higher CPCs can still yield cost-effective conversions when the audience is well-aligned with campaign objectives.
 
-In contrast, segments like Life Event and Interest Propensities appeared cost-efficient by CPC ($5.77 and $6.61, respectively) but fared worse on CPA and CPM. 
+In contrast, segments like Life Event and Interest Propensities appeared cost-efficient by CPC ($5.77 and $6.61, respectively) but fared worse on CPA and CPM. Ultimately, these results show that no single metric captures campaign value. A balanced view is required to contextualize trade-offs between click volume, cost per acquisition, and impression quality.
 
 
 #### Volume ≠ Engagement
@@ -82,9 +82,9 @@ In contrast, segments like Life Event and Interest Propensities appeared cost-ef
 </p>
 
 
-Meanwhile, Media & Entertainment stood out on engagement metrics, with a CTR of 32.56%—the highest among all audience segments—despite only ranking mid-tier in CPA and CVR. Ultimately, these results show that no single metric captures campaign value. A balanced view is required to contextualize trade-offs between click volume, cost per acquisition, and impression quality.
+Media & Entertainment stood out on engagement metrics, with a CTR of 32.56%—the highest among all audience segments—despite only ranking mid-tier in CPA and CVR. However, this did not translate to aduience engagement especially when comparin results to smaller markets. 
 
-An added layer of complexity emerged when comparing impression volume to performance outcomes. Beauty & Fitness recorded more than 2 million viewable impressions across 21 campaigns but failed to top performance metrics. In contrast, Lotame had just 18 campaigns and far fewer impressions but nearly matched top performers on CTR (29.95%) and CVR (6.58%).
+An added layer of complexity emerged when comparing impression volume to performance outcomes. Beauty & Fitness recorded more than 2 million viewable impressions across 21 campaigns but failed to capture top performance metrics. In contrast, Lotame had just 18 campaigns and far fewer impressions but nearly matched top performers on CTR (29.95%) and CVR (6.58%).
 
 This reinforces the importance of impression quality over quantity. Segments with fewer but more targeted impressions and well-matched creative formats often converted at higher rates. Future testing might benefit from reallocating spend to smaller segments that, while niche, may offer stronger return on investment when paired with the right creative strategy.
 
