@@ -98,8 +98,8 @@ This reinforces the importance of impression quality over quantity. Segments wit
 #### Performance Peaks When Audience & Format Align
 
 <p align="center">
-  <img src= "https://github.com/user-attachments/assets/57eccb97-bc03-4a86-90de-6e9935c04fc6">
-<img src="https://github.com/user-attachments/assets/37574cd0-17db-4cc7-b607-ac90efba3a25">
+  <img src= "https://github.com/user-attachments/assets/6c0823bb-96e3-4ab2-bac6-c69dc89f4cf1">
+<img src="https://github.com/user-attachments/assets/137fac86-51cb-4881-b323-9d7356ad7ee8">
 </p>
 
 
