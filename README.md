@@ -55,7 +55,9 @@ Across all campaigns, the creative sizes 300x250 and 320x50 emerged as the **mos
 While 300x250 performed reliably across metrics, 320x50's strong benchmarks—particularly on CPA ($310.59) and CTR (25.67%)—suggest that this format has higher upside when paired with the right segment. In contrast, **300x50 consistently underperformed,** recording the highest CPC ($17.16) and CPA ($456.41). These findings highlight the **strategic value** of selecting creative formats not just based on cost, but on their potential for conversion lift and audience match.
 </p>
 
-
+<p>
+  <br>
+</p>
 
 ### Top Performing Audience Segments
 
