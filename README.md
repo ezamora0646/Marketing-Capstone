@@ -116,26 +116,16 @@ Altogether, data suggests that optimal performance is achieved not through blank
 
 ## Recommendations
 **Strategic takeaway:** 
+Optimizing audience engagement and campaign efficiency requires more than selecting high-performing segments or cost-effective creatives in isolation. The strongest results occur when **audience behavior, creative format, and campaign objectives are strategically aligned**. 
+<br>
 
-** **
-**Implication:** 
+**Recommendations** for optimizing efficiency:
+1. Prioritize high-performing pairings & allocate budget toward audience–creative combinations that consistently outperform on both cost and conversion metrics.
+2. Limit or reassess spend on underperforming creative sizes like 300x50, which showed inflated CPC and CPA metrics with minimal conversion upside.
 
-**Recommendations** for :
-1. 
-2. 
 
-** **
-**Implication:** 
-
-**Recommendations** for :
-1. 
-2. 
-
-** **
-**Implication:** 
-
-**Recommendations** for :
-1. 
-2. 
+**Recommendations** for strategy building:
+1. Test creative alignment & run A/B tests to validate whether improved performance in specific segments is driven by format, messaging, or their synergy.
+2.  Audience segmentation should inform creative format selection upfront, enabling more strategic campaign design and forecasting.
 
 
