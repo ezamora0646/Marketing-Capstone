@@ -49,9 +49,8 @@ Top-performing audience segments frequently coincided with high-performing creat
 <p align="center">
   <a href="https://public.tableau.com/app/profile/edwin.zamora/viz/AudienceAnalystCapstone/Dashboard2?publish=yes">
     <img src="https://github.com/user-attachments/assets/36dcd61e-5b8a-4bfb-8091-c74f72d486a7" alt="View Creative Sizing Insights" />    
-</p>
 
-  Across all campaigns, the creative sizes 300x250 and 320x50 emerged as the **most cost-efficient formats**. Both consistently posted the **lowest CPM ($0.03)**, with 320x250 also offering the **lowest vCPM ($61.67).** Notably, 320x50 edged ahead on conversion metrics, generating the **highest CVR of 3.90%.**
+Across all campaigns, the creative sizes 300x250 and 320x50 emerged as the **most cost-efficient formats**. Both consistently posted the **lowest CPM ($0.03)**, with 320x250 also offering the **lowest vCPM ($61.67).** Notably, 320x50 edged ahead on conversion metrics, generating the **highest CVR of 3.90%.**
 
 While 300x250 performed reliably across metrics, 320x50's strong benchmarks—particularly on CPA ($310.59) and CTR (25.67%)—suggest that this format has higher upside when paired with the right segment. In contrast, **300x50 consistently underperformed,** recording the highest CPC ($17.16) and CPA ($456.41). These findings highlight the **strategic value** of selecting creative formats not just based on cost, but on their potential for conversion lift and audience match.
 </p>
