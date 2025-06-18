@@ -1,4 +1,4 @@
-# Marketing-Capstone
+# Optimizing National Marketing Campaigns
 
 ## Table of Contents
 
