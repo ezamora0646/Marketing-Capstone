@@ -47,7 +47,6 @@ Top-performing audience segments frequently coincided with high-performing creat
 
 #### Creative Format as a Performance Driver
 
-
 #### 320x50 is the most cost-effective creative size
 <p align="center">
   <a href="https://public.tableau.com/app/profile/edwin.zamora/viz/AudienceAnalystCapstone/Dashboard2?publish=yes">
@@ -57,6 +56,8 @@ Top-performing audience segments frequently coincided with high-performing creat
 Across all campaigns, the creative sizes 300x250 and 320x50 emerged as the **most cost-efficient formats**. Both consistently posted the **lowest CPM ($0.03)**, with 320x250 also offering the **lowest vCPM ($61.67).** Notably, 320x50 edged ahead on conversion metrics, generating the **highest CVR of 3.90%.**
 
 While 300x250 performed reliably across metrics, 320x50's strong benchmarks—particularly on CPA ($310.59) and CTR (25.67%)—suggest that this format has higher upside when paired with the right segment. In contrast, **300x50 consistently underperformed,** recording the highest CPC ($17.16) and CPA ($456.41). These findings highlight the **strategic value** of selecting creative formats not just based on cost, but on their potential for conversion lift and audience match.
+
+
 
 
 
@@ -72,6 +73,8 @@ While 300x250 performed reliably across metrics, 320x50's strong benchmarks—pa
 Audience performance varied widely across metrics, revealing a clear decoupling between cost and outcome. For example, the Finance segment reported one of the highest CPCs ($7.24) but still ranked among the top 3 segments with the lowest CPA ($174.30) and second-lowest CPM ($13.84). This suggests that higher CPCs can still yield cost-effective conversions when the audience is well-aligned with campaign objectives.
 
 In contrast, segments like Life Event and Interest Propensities appeared cost-efficient by CPC ($5.77 and $6.61, respectively) but fared worse on CPA and CPM. Ultimately, these results show that no single metric captures campaign value. A balanced view is required to contextualize trade-offs between click volume, cost per acquisition, and impression quality.
+
+
 
 
 
