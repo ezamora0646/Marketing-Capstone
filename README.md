@@ -15,9 +15,9 @@ COOP Careers is a non-profit organization dedicated to helping recent graduates 
 
 
 The **main objectives** of this analysis are to:
-1. Benchmark Top Performing Audience Segments
-2. Generate Audience Personas to inform marketing strategies
-3. Optimize creative sizing and messaging for future campaigns
+1. Optimize creative sizing for future campaigns 
+2. Benchmark Top Performing Audience Segments
+3. Determine Optimal Creative Sizing and Audience Strategies
 
 ## Dataset & Overview of Data Structure
 
