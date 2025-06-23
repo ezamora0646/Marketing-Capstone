@@ -11,7 +11,7 @@
 
 ## Scope & Goals of Analysis
 
-COOP Careers is a non-profit organization dedicated to helping recent graduates overcome underemployment. The 16-week fellowship culminates in a Data Analytics Capstone, in which fellows deliver data-driven business recommendations to stakeholders and representatives from marketing agencies such as RPA. The dataset analyzed contains synthetic data from 700+ ad campaigns across the US that were launced in 2024. Various branding and performance metrics were calculated using the available data on expenses, impressions, clicks, etc. This report focuses on insights I generated as an Audience Analyst responsible for identifying top performing segments and generating audience personas. Additionally, these insights are presented alongside findings from the Creative Analyst I collaborated with. 
+COOP Careers is a non-profit organization dedicated to helping recent graduates overcome underemployment. The 16-week fellowship culminates in a Data Analytics Capstone, in which fellows deliver data-driven business recommendations to stakeholders and representatives from marketing agencies such as RPA. The dataset analyzed contains synthetic data from 700+ ad campaigns across the US that were launced in 2024. Various branding and performance metrics were calculated using the available data on expenses, impressions, clicks, etc. This report focuses on insights I generated as an Audience Analyst responsible for identifying top performing segments and generating audience personas. Additionally, these insights are presented alongside findings from the analysis of data on creative sizing. 
 
 
 The **main objectives** of this analysis are to:
