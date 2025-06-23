@@ -35,8 +35,8 @@ The dataset was cleaned and standardized using Power Query to ensure reliable ag
 **Audience Insights:**
 Segments such as Brand Propensities, Finance, and Intent consistently outperformed others across both cost-efficiency and engagement KPIs. For example, Brand Propensities achieved the **lowest CPA ($166.14) and CPC ($4.84)**, while Intent audiences led in **CTR (31.93%)** and remained competitive in **CVR (5.16%)**, highlighting its effectiveness across both branding and performance-focused objectives.
 
-Creative Performance:
-Among creative sizes, 300x250 and 320x50 emerged as **cost-effective and reliable** across the cost and rate-based KPIs of all campaigns. On average, 320x50 consistently offered the **lowest CPA ($310.59) and the highest CVR (3.9%)**, while 300x250 maintained the **lowest vCPM ($65.78)**, suggesting that both formats warrant continued use and A/B testing to optimize performance across cost and conversion objectives. While median performance across creative sizes was relatively stable, 320x50 carried more upside potential, albeit with outlier risk.
+**Creative Performance:**
+Among creative sizes, 300x250 and 320x50 emerged as **cost-effective and reliable** across the cost and rate-based KPIs of all campaigns. 320x50 consistently offered the **lowest CPA ($310.59) and the highest CVR (3.9%)**, while 300x250 maintained the **lowest vCPM ($65.78)**, suggesting that both formats warrant continued use and A/B testing to optimize performance across cost and conversion objectives. While median performance across creative sizes was relatively stable, 320x50 carried more upside potential, albeit with outlier risk.
 
 Cross-Cutting Analysis:
 The most effective campaign outcomes occurred where **high-performing audience segments were paired with optimal creative sizes**. For example, *Intent audiences paired with 320x50* achieved elevated CTR (32.99%) and CVR (6.12%), while *Brand Propensities with 320x50* yielded the **lowest CPA ($132.20)**. Conversely, creative formats like *300x50 often inflated CPC and CPA* without clear performance gains, highlighting inefficiencies in certain segment–format combinations.
